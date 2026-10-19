@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jose Hernandez</h1>
@@ -20,7 +20,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" src="./assets/about.jpg" alt="About me" width="220" />
+<img align="right" src="./assets/about.png" alt="About me" width="300" />
 
 **Jose**, here — a Computer Engineering student who maintains the backend of web applications **in production**.
 
@@ -69,5 +69,5 @@ My goal is simple: write code that my future self won't hate, and grow into an e
 ---
 
 <p align="center">
-  <i>"Code is never finished. It just reaches production."</i>
+  <i>"From a problem to absolute optimization"</i>
 </p>
